@@ -50,7 +50,7 @@ function disableButtonWhenGameIsWon(player) {
       button.toggleAttribute("disabled");
     }
   }
-  display.textContent = player + "won the game";
+  display.textContent = player + "won the game 🤑";
 }
 
 function checkDraw() {
@@ -59,5 +59,5 @@ function checkDraw() {
       return
     }
   }
-  display.textContent = "It is a Draw Game";
+  display.textContent = "It is a Draw Game 🙏👏";
 };
