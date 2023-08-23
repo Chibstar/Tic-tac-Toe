@@ -59,5 +59,5 @@ function checkDraw() {
       return
     }
   }
-  display.textContent = "It is a Draw Game 🙏👏";
+  display.textContent = "It is a Draw Game 👏🙏";
 };
