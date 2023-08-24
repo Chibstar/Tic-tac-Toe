@@ -59,3 +59,15 @@ body {
     border-radius: 5px;
 }
 
+@media screen and (min-width: 768px) {
+    /* #globContainer{
+        flex-direction: row;
+    } */
+
+    #title {
+        font-size: 70px;
+        color: red;
+        text-decoration: underline;
+    }
+}
+
